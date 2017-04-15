@@ -13,7 +13,7 @@ Lucas West
 In this project we learned how to use Ajax to build applications that are fast, and use a database source.
 
 ### View Project:
-https://congoslice.github.io/lesson8_ajax/Lesson8_AssignmentFiles/
+https://congoslice.github.io/lesson8_ajax/Lesson8_AssignmentFiles/index.html
 
 ### Lessons Learned in the Assignment:
 1. What a HTTP Request is, and how to understand an HTTP Response 
