@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Lucas West
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we learned how to use Ajax to build applications that are fast, and use a database source.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://congoslice.github.io/lesson8_ajax/Lesson8_AssignmentFiles/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. What a HTTP Request is, and how to understand an HTTP Response 
+2. How to implement APIs into web applications to create fast working apps.
+3. Google APIs are the coolest! I have never used them before and cannot wait to in the future.
